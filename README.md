@@ -21,7 +21,6 @@ Every face below is open-licensed (SIL OFL 1.1, except ProggyClean which is MIT)
 | `ChakraPetch-Regular.ttf` | Chakra Petch |
 | `BebasNeue-Regular.ttf` | Bebas Neue |
 | `Orbitron.ttf` | Orbitron |
+| `Verdana.ttf` | Verdana |
 
 Inter and Orbitron are variable fonts, so they render at their default weight.
-Verdana is not hosted: it is Microsoft-licensed, so Koffee lists it and reads
-`Koffee/fonts/Verdana.ttf` only if the user drops their own copy there.
